@@ -47,3 +47,5 @@ function isEligible() {
 // let output  = isEligible();
 console.log(isEligible());
 document.body.innerHTML = isEligible();
+
+console.log("We are using GIT!");
